@@ -16,7 +16,7 @@ Analyze WhatsApp conversations and reveal hidden relationship patterns using AI.
 
 
 ## Demo
-Coming soon...
+Streamlit: https://ai-chat-analyzer-djhvy9zaqxrcsvctbfudcw.streamlit.app/
 
 ## Run Locally
 ```bash
