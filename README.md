@@ -7,6 +7,12 @@ Analyze WhatsApp conversations and reveal hidden relationship patterns using AI.
   - Relationship Insight
 - Conversation Starter Analysis
 
+## Preview
+![App Screenshot](images/assest1.png)
+![App Screenshot](images/assest2.png)
+![App Screenshot](images/assest3.png)
+
+
 ## Demo
 Coming soon...
 
