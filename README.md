@@ -9,7 +9,9 @@ Analyze WhatsApp conversations and reveal hidden relationship patterns using AI.
 
 ## Preview
 ![App Screenshot](images/assets1.png)
+
 ![App Screenshot](images/assets2.png)
+
 ![App Screenshot](images/assets3.png)
 
 
